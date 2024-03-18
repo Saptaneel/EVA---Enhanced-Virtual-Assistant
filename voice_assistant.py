@@ -1,7 +1,6 @@
-"""
-Author - bhakti suryawanshi
+
 Docstring - this file gives program for developing personal google assistant
-date - 20 dec 2022
+date - 20 feb 2024
 """
 import pyttsx3
 import speech_recognition as sr
@@ -92,7 +91,7 @@ try:
             
             
 
-            elif 'open mintu' in work:
+            elif 'open fb' in work:
                 speak("opening mirnmoy kundu for you\n")
                 webbrowser.open("https://www.facebook.com/mirnmoy.kundu")
 
