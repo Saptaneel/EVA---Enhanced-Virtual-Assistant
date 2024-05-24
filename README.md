@@ -1,9 +1,9 @@
-EVA: Enhanced Virtual Assistant
-Overview
+# EVA: Enhanced Virtual Assistant
+**Overview**
 EVA (Enhanced Virtual Assistant) is a Python-based personal assistant application that leverages speech recognition and text-to-speech technology to provide a hands-free user experience. EVA can greet you based on the time of day, perform web searches, open applications, and execute various commands based on your voice input.
 
-Features
-Voice Recognition: EVA listens to your commands using the microphone and processes them using Google's speech recognition.
+# Features
+**Voice Recognition**: EVA listens to your commands using the microphone and processes them using Google's speech recognition.
 Text-to-Speech: EVA can speak responses and provide auditory feedback for the actions it performs.
 Greetings: EVA greets you with an appropriate message based on the time of day (morning, afternoon, evening).
 Wikipedia Search: EVA can search Wikipedia and read a summary of the results.
